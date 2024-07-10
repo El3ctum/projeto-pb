@@ -1,0 +1,28 @@
+"filename", "language", "TypeScript JSX", "CSS", "TypeScript", "XML", "comment", "blank", "total"
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/App.tsx", "TypeScript JSX", 89, 0, 0, 0, 0, 4, 93
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/assets/react.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/action/login.tsx", "TypeScript JSX", 57, 0, 0, 0, 3, 6, 66
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/action/registration.tsx", "TypeScript JSX", 54, 0, 0, 0, 3, 6, 63
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/layouts/footer.tsx", "TypeScript JSX", 11, 0, 0, 0, 0, 2, 13
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/layouts/header.tsx", "TypeScript JSX", 14, 0, 0, 0, 0, 3, 17
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/avatar.tsx", "TypeScript JSX", 43, 0, 0, 0, 0, 6, 49
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/button.tsx", "TypeScript JSX", 51, 0, 0, 0, 0, 6, 57
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/menu/menu.tsx", "TypeScript JSX", 16, 0, 0, 0, 0, 4, 20
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/menu/menuItem.tsx", "TypeScript JSX", 16, 0, 0, 0, 0, 4, 20
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/user/dashboard/dashboard.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 1, 1
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/user/dashboard/registerDashboard.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 1, 9
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/index.css", "CSS", 0, 61, 0, 0, 0, 5, 66
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/lib/utils.ts", "TypeScript", 0, 0, 6, 0, 0, 3, 9
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/main.tsx", "TypeScript JSX", 9, 0, 0, 0, 0, 2, 11
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/AboutPage.tsx", "TypeScript JSX", 31, 0, 0, 0, 0, 3, 34
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/AuthPage.tsx", "TypeScript JSX", 9, 0, 0, 0, 0, 3, 12
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/LadingPage.tsx", "TypeScript JSX", 52, 0, 0, 0, 3, 8, 63
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/LayoutPage.tsx", "TypeScript JSX", 13, 0, 0, 0, 0, 2, 15
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/erro/page-not-found.tsx", "TypeScript JSX", 14, 0, 0, 0, 0, 2, 16
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/Profile.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 2, 10
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/Settings.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 2, 10
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/UserHome.tsx", "TypeScript JSX", 44, 0, 0, 0, 0, 3, 47
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/dashboard/Dashboard.tsx", "TypeScript JSX", 10, 0, 0, 0, 0, 3, 13
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/quotations/Quotations.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 2, 10
+"/home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 1, 1, 2
+"Total", "-", 565, 61, 6, 1, 10, 84, 727

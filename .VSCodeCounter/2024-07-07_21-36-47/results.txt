@@ -1,0 +1,71 @@
+Date : 2024-07-07 21:36:47
+Directory : /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src
+Total : 26 files,  633 codes, 10 comments, 84 blanks, all 727 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |         22 |        565 |          9 |         75 |        649 |
+| CSS            |          1 |         61 |          0 |          5 |         66 |
+| TypeScript     |          2 |          6 |          1 |          4 |         11 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                         |         26 |        633 |         10 |         84 |        727 |
+| . (Files)                                                                                                                 |          4 |        159 |          1 |         12 |        172 |
+| assets                                                                                                                    |          1 |          1 |          0 |          0 |          1 |
+| components                                                                                                                |         10 |        270 |          6 |         39 |        315 |
+| components/action                                                                                                         |          2 |        111 |          6 |         12 |        129 |
+| components/layouts                                                                                                        |          2 |         25 |          0 |          5 |         30 |
+| components/ui                                                                                                             |          4 |        126 |          0 |         20 |        146 |
+| components/ui (Files)                                                                                                     |          2 |         94 |          0 |         12 |        106 |
+| components/ui/menu                                                                                                        |          2 |         32 |          0 |          8 |         40 |
+| components/user                                                                                                           |          2 |          8 |          0 |          2 |         10 |
+| components/user/dashboard                                                                                                 |          2 |          8 |          0 |          2 |         10 |
+| lib                                                                                                                       |          1 |          6 |          0 |          3 |          9 |
+| pages                                                                                                                     |         10 |        197 |          3 |         30 |        230 |
+| pages (Files)                                                                                                             |          4 |        105 |          3 |         16 |        124 |
+| pages/erro                                                                                                                |          1 |         14 |          0 |          2 |         16 |
+| pages/user                                                                                                                |          5 |         78 |          0 |         12 |         90 |
+| pages/user (Files)                                                                                                        |          3 |         60 |          0 |          7 |         67 |
+| pages/user/dashboard                                                                                                      |          1 |         10 |          0 |          3 |         13 |
+| pages/user/quotations                                                                                                     |          1 |          8 |          0 |          2 |         10 |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                  | language       | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/App.tsx                                         | TypeScript JSX |         89 |          0 |          4 |         93 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/assets/react.svg                                | XML            |          1 |          0 |          0 |          1 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/action/login.tsx                     | TypeScript JSX |         57 |          3 |          6 |         66 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/action/registration.tsx              | TypeScript JSX |         54 |          3 |          6 |         63 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/layouts/footer.tsx                   | TypeScript JSX |         11 |          0 |          2 |         13 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/layouts/header.tsx                   | TypeScript JSX |         14 |          0 |          3 |         17 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/avatar.tsx                        | TypeScript JSX |         43 |          0 |          6 |         49 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/button.tsx                        | TypeScript JSX |         51 |          0 |          6 |         57 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/menu/menu.tsx                     | TypeScript JSX |         16 |          0 |          4 |         20 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/ui/menu/menuItem.tsx                 | TypeScript JSX |         16 |          0 |          4 |         20 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/user/dashboard/dashboard.tsx         | TypeScript JSX |          0 |          0 |          1 |          1 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/components/user/dashboard/registerDashboard.tsx | TypeScript JSX |          8 |          0 |          1 |          9 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/index.css                                       | CSS            |         61 |          0 |          5 |         66 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/lib/utils.ts                                    | TypeScript     |          6 |          0 |          3 |          9 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/main.tsx                                        | TypeScript JSX |          9 |          0 |          2 |         11 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/AboutPage.tsx                             | TypeScript JSX |         31 |          0 |          3 |         34 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/AuthPage.tsx                              | TypeScript JSX |          9 |          0 |          3 |         12 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/LadingPage.tsx                            | TypeScript JSX |         52 |          3 |          8 |         63 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/LayoutPage.tsx                            | TypeScript JSX |         13 |          0 |          2 |         15 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/erro/page-not-found.tsx                   | TypeScript JSX |         14 |          0 |          2 |         16 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/Profile.tsx                          | TypeScript JSX |          8 |          0 |          2 |         10 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/Settings.tsx                         | TypeScript JSX |          8 |          0 |          2 |         10 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/UserHome.tsx                         | TypeScript JSX |         44 |          0 |          3 |         47 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/dashboard/Dashboard.tsx              | TypeScript JSX |         10 |          0 |          3 |         13 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/pages/user/quotations/Quotations.tsx            | TypeScript JSX |          8 |          0 |          2 |         10 |
+| /home/davi-vieira/Documents/workspace/faculdade/3 semestre/projeto-pb/src/vite-env.d.ts                                   | TypeScript     |          0 |          1 |          1 |          2 |
+| Total                                                                                                                     |                |        633 |         10 |         84 |        727 |
++---------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
